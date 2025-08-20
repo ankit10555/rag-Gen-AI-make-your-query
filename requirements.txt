@@ -1,0 +1,13 @@
+python-dotenv==1.1.0
+langchain==0.3.27
+langchain-groq==0.3.7
+langchain-chroma==0.2.5
+langchain-huggingface==0.3.1
+langchain-community==0.3.27
+chromadb==1.0.19
+huggingface-hub==0.34.4
+bs4==0.0.1
+beautifulsoup4==4.13.4
+grok==6.1
+groq==0.31.0
+uuid==1.30
